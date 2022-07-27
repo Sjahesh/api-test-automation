@@ -68,6 +68,9 @@ public class DataGenerator {
 	        return faker.phoneNumber().extension();
 
 	    }
+	    public static void PrintThis(){
 
-	}
+	    	System.out.println("Shoaib");
 
+	    	}
+}
